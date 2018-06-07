@@ -1,2 +1,3 @@
 // write your code below!
-function happyHolidays() { return "Happy holidays!"}
+var greeting = "Happy holidays!"
+function happyHolidays() { return greeting}
